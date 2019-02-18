@@ -1,7 +1,7 @@
 # Accomplisher
 accomplishment tracker
 ![Alt text](diagram%201.png?raw=true "Diagram 1")
-![Alt text](diagram 2.png?raw=true "Diagram 2")
+![Alt text](diagram%202.png?raw=true "Diagram 2")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
