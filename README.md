@@ -1,5 +1,7 @@
 # Accomplisher
-#### Daily accomplishment tracker
+accomplishment tracker
+![Alt text](diagram 1.png?raw=true "Diagram 1")
+![Alt text](diagram 2.png?raw=true "Diagram 2")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
