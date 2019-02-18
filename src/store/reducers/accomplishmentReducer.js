@@ -7,6 +7,10 @@ const initState = {
 }
 
 const accomplishmentReducer = (state = initState, action) => {
+	switch(action.type){
+		case 'CREATE_ACCOMPLISHMENT':
+			console.log('created project', action.accomplishment)
+	}
 	return state
 }
 

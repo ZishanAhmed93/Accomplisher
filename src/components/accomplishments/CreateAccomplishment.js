@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { connect } from 'react-redux'
+import { createAccomplishment } from '../../store/actions/accomplishmentActions'
 
 class CreateAccomplishment extends Component {
 	state = {
@@ -12,7 +14,8 @@ class CreateAccomplishment extends Component {
 	}
 	handleSubmit = (e) => {
 		e.preventDefault();
-		console.log(this.state);
+		//console.log(this.state);
+		this.props.createAccomplishment(this.state)
 	}
 	render() {
 		return (
@@ -36,4 +39,10 @@ class CreateAccomplishment extends Component {
 	}
 }
 
-export default CreateAccomplishment
+const mapDispatchToProps = ( dispact ) => {
+	return {
+		createAccomplishment: (accomplishment) => dispact(createAccomplishment(accomplishment))
+	}
+}
+
+export default connect(null, mapDispatchToProps)(CreateAccomplishment)
