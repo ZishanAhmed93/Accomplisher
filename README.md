@@ -1,6 +1,6 @@
 # Accomplisher
 accomplishment tracker
-![Alt text](diagram 1.png?raw=true "Diagram 1")
+![Alt text](diagram%201.png?raw=true "Diagram 1")
 ![Alt text](diagram 2.png?raw=true "Diagram 2")
 
 
