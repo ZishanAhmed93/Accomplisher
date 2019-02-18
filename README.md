@@ -1,3 +1,9 @@
+# Accomplisher
+Daily accomplishment tracker
+![Alt text](diagram%201.png?raw=true "Diagram 1")
+![Alt text](diagram%202.png?raw=true "Diagram 2")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Accomplisher
