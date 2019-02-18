@@ -1,5 +1,5 @@
 # Accomplisher
-accomplishment tracker
+Daily accomplishment tracker
 ![Alt text](diagram%201.png?raw=true "Diagram 1")
 ![Alt text](diagram%202.png?raw=true "Diagram 2")
 
