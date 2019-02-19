@@ -39,9 +39,9 @@ class CreateAccomplishment extends Component {
 	}
 }
 
-const mapDispatchToProps = ( dispact ) => {
+const mapDispatchToProps = ( dispatch ) => {
 	return {
-		createAccomplishment: (accomplishment) => dispact(createAccomplishment(accomplishment))
+		createAccomplishment: (accomplishment) => dispatch(createAccomplishment(accomplishment))
 	}
 }
 
