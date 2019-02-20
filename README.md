@@ -2,6 +2,7 @@
 Daily accomplishment tracker
 ![Alt text](diagram%201.png?raw=true "Diagram 1")
 ![Alt text](diagram%202.png?raw=true "Diagram 2")
+Technologies: Node, React, Redux, Thunk, and Firebase
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
